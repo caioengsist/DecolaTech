@@ -1,4 +1,4 @@
-# Linguagem de Programação em C
+# Decola Tech 3º edição
 Esse repositório é para demonstrar meu aprendizado no Bootcamp da Decola Tech 3º Edição.
 
 Tem as linguagens de marcação: 
