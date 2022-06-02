@@ -1,0 +1,43 @@
+Comando Git e outros
+
+
+dir: Puxa todas as pastas
+cd: leva para uma page especifica
+cd .. : Volta para a page anterior
+cd /: leva para a base do diretório
+gcc: executa o programa a que foi gerado 
+cls: limpa o terminal
+mkdir (nome da psta): cria uma nova page no diretório que você está.
+del (nome da pasta): exclui tudo que está dentro.
+rmdir (nome da pasta) /S /Q
+
+Comando git:
+git init: trasnforma arquivo comum em um repositório git
+start notepad++ (nome do arquivo)
+mv (nome do arquivo que está fora da pasta) ./(nome da pasta)/
+git add: preparo commitar
+git commit -m "": 
+git commit -m "": adiciona indez, para capa
+git add *: commita  tudo
+git remote add origin (page do github): coloca o arquivo no site
+git push origin master: empurrar para a web
+git pull origin master: conflito de Merge no caso faz o contrário pull puxa a versão. 
+git clone (URL): baixei o repositório
+ls -a: mostra pastas ocultas
+git remote -v: mostra pastas que está na rede 
+
+
+
+1) Unsigned (ex: Unsigned int a;)
+> Só positivos, dobra o alcance
+
+2) Short (Ex: short int b;)
+> reduz o tamanho pela metade, em vez de ter 32 ele vai ter um bit para o sinal e 15 de conteúdo.
+E pode combinar os modificadores. 
+
+3) long (ex: long int c;)
+Aumenta o tamnho de bits
+
+
+
+

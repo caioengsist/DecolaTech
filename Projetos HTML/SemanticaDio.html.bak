@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<title>Caio Costa</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	
+	<body>
+	<header>
+		<img src="FOTO.jpg" alt="Ilustração do rosto do Caio Costa" class="photo">
+		<h1 id="title">Caio Costa</h1>
+	<header>	
+	<section>
+		<header>
+		<h2 class="subtitle">Posts</h2>
+		</header>
+		<article class="post">
+		<header>
+		<h3 class="post_title">Post #1</h3>
+		<img src="HtmlCode.jpg" alt="Editor de texto contendo código Html" class="post-image">
+				</header>
+				
+	<p class="post-content">
+		Lorem ipsum dolor sit amet, <a href="https://www.linkedin.com/in/caio-costa-1b62041a1/"target="_blank">consectetur adipiscing elit</a>.Quisque placerat dolor vel ante blandit, 
+		sed vulputate odio interdum. 
+		Praesent congue urna eget turpis ultricies, quis tincidunt nibh viverra. 
+		<a href="mailto:caioatsoc@gmail.com">Cras at nibh lacus.</a> Ut finibus iaculis eros, sit amet pellentesque dui pretium sed. 
+		Nulla semper dignissim mollis. 
+		Duis molestie, mauris vitae pellentesque porttitor, quam sapien condimentum tortor, ac convallis felis diam sit amet leo. Nunc vel maximus est. Nulla turpis ante, efficitur eget diam vel, varius feugiat massa. 
+		Nunc eu lacus egestas, viverra odio at, fringilla arcu. Praesent enim enim, congue quis accumsan at, tincidunt ut justo. 
+		Integer sed ex quis risus suscipit eleifend eu vitae purus. Mauris mauris dolor, consequat in egestas ac, tempor in mauris.
+	</p>		
+		</article>
+		</section>
+	<footer>
+	<ul>
+	<li>
+	<a href="mailto:caioatsoc@gmail.com">caioatsoc@gmail.com</a>
+	</li>
+	<li>
+		<a href="https://www.linkedin.com/in/caio-costa-1b62041a1/" target="_blank">LinkedIn</a>
+		</ul>
+	</footer>
+	</body>
+	</html>
+	
+	
